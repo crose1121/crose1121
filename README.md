@@ -1,5 +1,7 @@
 👋 Hi, I’m Corey!
-I'm an aspiring software engineer. Always eager to learn more from others and level up my skills! ^.^ Hit me up, always ready to collaborate on a new project!
+Full-stack software developer and coder. Currently looking for work. I love working on teams as well as solo projects. Always eager to learn more from others, level up my skills, and collaborate on new projects.
+
+Check out 'rw', it's my personal project. A social media site which is 'story-based' rather than 'user-based'.
 
 <!---
 crose1121/crose1121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

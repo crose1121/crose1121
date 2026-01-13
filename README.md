@@ -1,4 +1,6 @@
-Web Developer with a passion for gaming and exercise. I code in JavaScript, Java, and currently learning Solidity. Hit me up any time for collaboration.
+App Developer seeking more knowledge.
+Currently working towards Spring Developer Certification
+I like React and JavaScript :)
 
 <!---
 crose1121/crose1121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

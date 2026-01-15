@@ -1,5 +1,5 @@
 App Developer seeking more knowledge.
-Currently working towards Spring Developer Certification
+Currently working towards Spring Developer Certification.
 I like React and JavaScript :)
 
 <!---
